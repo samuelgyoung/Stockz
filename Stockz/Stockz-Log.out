@@ -1,0 +1,282 @@
+2016-03-01 16:54:39,217 [main] DEBUG Stockz - main(Stockz.java:60) Creating file to read in stocks list (if it was passed in).
+2016-03-01 16:54:39,219 [main] DEBUG Stockz - main(Stockz.java:63) Creating String for URL Options...
+2016-03-01 16:54:39,219 [main] DEBUG Stockz - main(Stockz.java:65) String Created. Current Options: null
+2016-03-01 16:54:39,219 [main] DEBUG Stockz - main(Stockz.java:68) Setting the URL Options...
+2016-03-01 16:54:39,219 [main] DEBUG Stockz - main(Stockz.java:71) URL Options are default. Setting to: sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-01 16:54:39,219 [main] DEBUG Stockz - main(Stockz.java:99) A stock symbol C  was passed in - Executing Thread to get information with URL Option sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-01 16:54:39,221 [main] DEBUG Stockz - <init>(Stockz.java:163) A stock symbol C  set to upper case:  C
+2016-03-01 16:54:39,221 [main] DEBUG Stockz - <init>(Stockz.java:165) URL Options set  sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-01 16:54:39,239 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:187)Setting Temporary Stock Filname to : C-f4a1adad-1252-4431-b9f6-6506753eb37e.stk
+2016-03-01 16:54:39,713 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:189)Stock information recieved: C:f4a1adad-1252-4431-b9f6-6506753eb37e
+2016-03-01 16:54:39,713 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:191)Creating and manipulating Stock Data to get values: C:f4a1adad-1252-4431-b9f6-6506753eb37e
+2016-03-01 16:54:39,715 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:202) Finished. About to output the answer. C:f4a1adad-1252-4431-b9f6-6506753eb37e
+2016-03-01 16:57:55,729 [main] DEBUG Stockz - main(Stockz.java:60) Creating file to read in stocks list (if it was passed in).
+2016-03-01 16:57:55,731 [main] DEBUG Stockz - main(Stockz.java:63) Creating String for URL Options...
+2016-03-01 16:57:55,732 [main] DEBUG Stockz - main(Stockz.java:65) String Created. Current Options: null
+2016-03-01 16:57:55,732 [main] DEBUG Stockz - main(Stockz.java:68) Setting the URL Options...
+2016-03-01 16:57:55,732 [main] DEBUG Stockz - main(Stockz.java:71) URL Options are default. Setting to: sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-01 16:57:55,732 [main] DEBUG Stockz - main(Stockz.java:99) A stock symbol C  was passed in - Executing Thread to get information with URL Option sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-01 16:57:55,734 [main] DEBUG Stockz - <init>(Stockz.java:163) A stock symbol C  set to upper case:  C
+2016-03-01 16:57:55,734 [main] DEBUG Stockz - <init>(Stockz.java:165) URL Options set  sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-01 16:57:55,752 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:187)Setting Temporary Stock Filname to : C-b1b72b28-6025-4c21-84bf-8dc8fb69b6a7.stk
+2016-03-01 16:57:56,179 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:189)Stock information recieved: C:b1b72b28-6025-4c21-84bf-8dc8fb69b6a7
+2016-03-01 16:57:56,180 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:191)Creating and manipulating Stock Data to get values: C:b1b72b28-6025-4c21-84bf-8dc8fb69b6a7
+2016-03-01 16:57:56,182 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:202) Finished. About to output the answer. C:b1b72b28-6025-4c21-84bf-8dc8fb69b6a7
+2016-03-01 16:58:21,428 [main] DEBUG Stockz - main(Stockz.java:60) Creating file to read in stocks list (if it was passed in).
+2016-03-01 16:58:21,429 [main] DEBUG Stockz - main(Stockz.java:63) Creating String for URL Options...
+2016-03-01 16:58:21,429 [main] DEBUG Stockz - main(Stockz.java:65) String Created. Current Options: null
+2016-03-01 16:58:21,429 [main] DEBUG Stockz - main(Stockz.java:68) Setting the URL Options...
+2016-03-01 16:58:21,430 [main] DEBUG Stockz - main(Stockz.java:71) URL Options are default. Setting to: sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-01 16:58:21,430 [main] DEBUG Stockz - main(Stockz.java:99) A stock symbol C  was passed in - Executing Thread to get information with URL Option sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-01 16:58:21,432 [main] DEBUG Stockz - <init>(Stockz.java:163) A stock symbol C  set to upper case:  C
+2016-03-01 16:58:21,432 [main] DEBUG Stockz - <init>(Stockz.java:165) URL Options set  sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-01 16:58:21,441 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:187)Setting Temporary Stock Filname to : C-95112d7d-a1ad-45db-b9a3-01964d2e0d96.stk
+2016-03-01 16:58:21,882 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:189)Stock information recieved: C:95112d7d-a1ad-45db-b9a3-01964d2e0d96
+2016-03-01 16:58:21,882 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:191)Creating and manipulating Stock Data to get values: C:95112d7d-a1ad-45db-b9a3-01964d2e0d96
+2016-03-01 16:58:21,883 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:202) Finished. About to output the answer. C:95112d7d-a1ad-45db-b9a3-01964d2e0d96
+2016-03-01 16:59:50,051 [main] DEBUG Stockz - main(Stockz.java:61) Creating file to read in stocks list (if it was passed in).
+2016-03-01 16:59:50,052 [main] DEBUG Stockz - main(Stockz.java:64) Creating String for URL Options...
+2016-03-01 16:59:50,052 [main] DEBUG Stockz - main(Stockz.java:66) String Created. Current Options: null
+2016-03-01 16:59:50,052 [main] DEBUG Stockz - main(Stockz.java:69) Setting the URL Options...
+2016-03-01 16:59:50,052 [main] DEBUG Stockz - main(Stockz.java:72) URL Options are default. Setting to: sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-01 16:59:50,053 [main] DEBUG Stockz - main(Stockz.java:101) A stock symbol C  was passed in - Executing Thread to get information with URL Option sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-01 16:59:50,054 [main] DEBUG Stockz - <init>(Stockz.java:165) A stock symbol C  set to upper case:  C
+2016-03-01 16:59:50,054 [main] DEBUG Stockz - <init>(Stockz.java:167) URL Options set  sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-01 16:59:50,063 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:189)Setting Temporary Stock Filname to : C-4f7cf050-edec-481b-a097-508f914759e9.stk
+2016-03-01 16:59:50,559 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:191)Stock information recieved: C:4f7cf050-edec-481b-a097-508f914759e9
+2016-03-01 16:59:50,560 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:193)Creating and manipulating Stock Data to get values: C:4f7cf050-edec-481b-a097-508f914759e9
+2016-03-01 16:59:50,561 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:204) Finished. About to output the answer. C:4f7cf050-edec-481b-a097-508f914759e9
+2016-03-01 17:13:23,487 [main] DEBUG Stockz - main(Stockz.java:59) Creating file to read in stocks list (if it was passed in).
+2016-03-01 17:13:23,488 [main] DEBUG Stockz - main(Stockz.java:62) Creating String for URL Options...
+2016-03-01 17:13:23,488 [main] DEBUG Stockz - main(Stockz.java:64) String Created. Current Options: null
+2016-03-01 17:13:23,488 [main] DEBUG Stockz - main(Stockz.java:67) Setting the URL Options...
+2016-03-01 17:13:23,488 [main] DEBUG Stockz - main(Stockz.java:70) URL Options are default. Setting to: sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-01 17:13:23,489 [main] DEBUG Stockz - main(Stockz.java:99) A stock symbol C  was passed in - Executing Thread to get information with URL Option sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-01 17:13:23,490 [main] DEBUG Stockz - <init>(Stockz.java:163) A stock symbol C  set to upper case:  C
+2016-03-01 17:13:23,490 [main] DEBUG Stockz - <init>(Stockz.java:165) URL Options set  sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-01 17:13:23,498 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:184)Setting Temporary Stock Filname to : C-c427df13-a2c3-4416-ba35-3fb49bde8293.stk
+2016-03-01 17:13:24,368 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:186)Stock information recieved: C:c427df13-a2c3-4416-ba35-3fb49bde8293
+2016-03-01 17:13:24,368 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:188)Creating and manipulating Stock Data to get values: C:c427df13-a2c3-4416-ba35-3fb49bde8293
+2016-03-01 17:13:24,369 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:199) Finished. About to output the answer. C:c427df13-a2c3-4416-ba35-3fb49bde8293
+2016-03-10 11:16:49,122 [main] DEBUG Stockz - main(Stockz.java:61) Creating file to read in stocks list (if it was passed in).
+2016-03-10 11:16:49,123 [main] DEBUG Stockz - main(Stockz.java:64) Creating String for URL Options...
+2016-03-10 11:16:49,123 [main] DEBUG Stockz - main(Stockz.java:66) String Created. Current Options: null
+2016-03-10 11:16:49,124 [main] DEBUG Stockz - main(Stockz.java:69) Setting the URL Options...
+2016-03-10 11:16:49,124 [main] DEBUG Stockz - main(Stockz.java:72) URL Options are default. Setting to: sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-10 11:16:49,124 [main] DEBUG Stockz - main(Stockz.java:101) A stock symbol C  was passed in - Executing Thread to get information with URL Option sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-10 11:16:49,125 [main] DEBUG Stockz - <init>(Stockz.java:165) A stock symbol C  set to upper case:  C
+2016-03-10 11:16:49,125 [main] DEBUG Stockz - <init>(Stockz.java:167) URL Options set  sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-10 11:16:49,145 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:184)Generating Random UUID :7b29a3be-0115-40f7-9887-35b63403d47b
+2016-03-10 11:16:49,145 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:188) Thread:7b29a3be-0115-40f7-9887-35b63403d47b Setting Temporary Stock Filname to : C-7b29a3be-0115-40f7-9887-35b63403d47b.stk
+2016-03-10 11:17:09,452 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:190)Thread:7b29a3be-0115-40f7-9887-35b63403d47b Stock information recieved: C:7b29a3be-0115-40f7-9887-35b63403d47b
+2016-03-10 11:17:09,452 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:192) Thread:7b29a3be-0115-40f7-9887-35b63403d47b Creating and manipulating Stock Data to get values: C:7b29a3be-0115-40f7-9887-35b63403d47b
+2016-03-10 11:17:09,452 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:195) Thread:7b29a3be-0115-40f7-9887-35b63403d47b Getting the first line of C-7b29a3be-0115-40f7-9887-35b63403d47b.stk
+2016-03-10 11:17:09,453 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:197) Thread:7b29a3be-0115-40f7-9887-35b63403d47b Line of first file: "C",41.23,7.63,0.22,"41.00 - 42.15","34.52 - 60.95",42.15,41.00,60.95,34.52,5.20,5.71,1.76,1.29,121.76B,10691986,26238000,41.15,1.23
+2016-03-10 11:17:09,453 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:199) Thread:7b29a3be-0115-40f7-9887-35b63403d47b Deleting file: C-7b29a3be-0115-40f7-9887-35b63403d47b.stk
+2016-03-10 11:17:09,453 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:202) Thread:7b29a3be-0115-40f7-9887-35b63403d47b Removing all " from line : "C",41.23,7.63,0.22,"41.00 - 42.15","34.52 - 60.95",42.15,41.00,60.95,34.52,5.20,5.71,1.76,1.29,121.76B,10691986,26238000,41.15,1.23
+2016-03-10 11:17:09,456 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:204) Thread:7b29a3be-0115-40f7-9887-35b63403d47b Removing all spaces from line : C,41.23,7.63,0.22,41.00 - 42.15,34.52 - 60.95,42.15,41.00,60.95,34.52,5.20,5.71,1.76,1.29,121.76B,10691986,26238000,41.15,1.23
+2016-03-10 11:17:09,456 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:206) Thread:7b29a3be-0115-40f7-9887-35b63403d47b Removing all N\/A from line : C,41.23,7.63,0.22,41.00-42.15,34.52-60.95,42.15,41.00,60.95,34.52,5.20,5.71,1.76,1.29,121.76B,10691986,26238000,41.15,1.23
+2016-03-10 11:17:09,456 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:208) Thread:7b29a3be-0115-40f7-9887-35b63403d47b Final Line : C,41.23,7.63,0.22,41.00-42.15,34.52-60.95,42.15,41.00,60.95,34.52,5.20,5.71,1.76,1.29,121.76B,10691986,26238000,41.15,1.23
+2016-03-10 11:17:09,457 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:211)Thread:7b29a3be-0115-40f7-9887-35b63403d47b Finished. About to output the answer. C:7b29a3be-0115-40f7-9887-35b63403d47b
+2016-03-10 11:17:58,102 [main] DEBUG Stockz - main(Stockz.java:61) Creating file to read in stocks list (if it was passed in).
+2016-03-10 11:17:58,103 [main] DEBUG Stockz - main(Stockz.java:64) Creating String for URL Options...
+2016-03-10 11:17:58,103 [main] DEBUG Stockz - main(Stockz.java:66) String Created. Current Options: null
+2016-03-10 11:17:58,104 [main] DEBUG Stockz - main(Stockz.java:69) Setting the URL Options...
+2016-03-10 11:17:58,104 [main] DEBUG Stockz - main(Stockz.java:72) URL Options are default. Setting to: sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-10 11:17:58,104 [main] DEBUG Stockz - main(Stockz.java:101) A stock symbol C  was passed in - Executing Thread to get information with URL Option sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-10 11:17:58,105 [main] DEBUG Stockz - <init>(Stockz.java:165) A stock symbol C  set to upper case:  C
+2016-03-10 11:17:58,106 [main] DEBUG Stockz - <init>(Stockz.java:167) URL Options set  sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-10 11:17:58,113 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:184) Generating Random UUID :feb4854c-6b30-436a-95f5-1e6d29687086
+2016-03-10 11:17:58,113 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:188) Thread:feb4854c-6b30-436a-95f5-1e6d29687086 Setting Temporary Stock Filname to : C-feb4854c-6b30-436a-95f5-1e6d29687086.stk
+2016-03-10 11:17:58,586 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:190) Thread:feb4854c-6b30-436a-95f5-1e6d29687086 Stock information recieved: C:feb4854c-6b30-436a-95f5-1e6d29687086
+2016-03-10 11:17:58,586 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:192) Thread:feb4854c-6b30-436a-95f5-1e6d29687086 Creating and manipulating Stock Data to get values: C:feb4854c-6b30-436a-95f5-1e6d29687086
+2016-03-10 11:17:58,586 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:195) Thread:feb4854c-6b30-436a-95f5-1e6d29687086 Getting the first line of C-feb4854c-6b30-436a-95f5-1e6d29687086.stk
+2016-03-10 11:17:58,587 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:197) Thread:feb4854c-6b30-436a-95f5-1e6d29687086 Line of first file: "C",41.25,7.64,0.22,"41.00 - 42.15","34.52 - 60.95",42.15,41.00,60.95,34.52,5.20,5.71,1.76,1.29,121.82B,10711044,26238000,41.15,1.23
+2016-03-10 11:17:58,587 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:199) Thread:feb4854c-6b30-436a-95f5-1e6d29687086 Deleting file: C-feb4854c-6b30-436a-95f5-1e6d29687086.stk
+2016-03-10 11:17:58,587 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:202) Thread:feb4854c-6b30-436a-95f5-1e6d29687086 Removing all " from line : "C",41.25,7.64,0.22,"41.00 - 42.15","34.52 - 60.95",42.15,41.00,60.95,34.52,5.20,5.71,1.76,1.29,121.82B,10711044,26238000,41.15,1.23
+2016-03-10 11:17:58,588 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:204) Thread:feb4854c-6b30-436a-95f5-1e6d29687086 Removing all spaces from line : C,41.25,7.64,0.22,41.00 - 42.15,34.52 - 60.95,42.15,41.00,60.95,34.52,5.20,5.71,1.76,1.29,121.82B,10711044,26238000,41.15,1.23
+2016-03-10 11:17:58,588 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:206) Thread:feb4854c-6b30-436a-95f5-1e6d29687086 Removing all N\/A from line : C,41.25,7.64,0.22,41.00-42.15,34.52-60.95,42.15,41.00,60.95,34.52,5.20,5.71,1.76,1.29,121.82B,10711044,26238000,41.15,1.23
+2016-03-10 11:17:58,588 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:208) Thread:feb4854c-6b30-436a-95f5-1e6d29687086 Final Line : C,41.25,7.64,0.22,41.00-42.15,34.52-60.95,42.15,41.00,60.95,34.52,5.20,5.71,1.76,1.29,121.82B,10711044,26238000,41.15,1.23
+2016-03-10 11:17:58,589 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:211)Thread:feb4854c-6b30-436a-95f5-1e6d29687086 Finished. About to output the answer. C:feb4854c-6b30-436a-95f5-1e6d29687086
+2016-03-10 11:20:15,696 [main] DEBUG Stockz - main(Stockz.java:61) Creating file to read in stocks list (if it was passed in).
+2016-03-10 11:20:15,697 [main] DEBUG Stockz - main(Stockz.java:64) Creating String for URL Options...
+2016-03-10 11:20:15,697 [main] DEBUG Stockz - main(Stockz.java:66) String Created. Current Options: null
+2016-03-10 11:20:15,698 [main] DEBUG Stockz - main(Stockz.java:69) Setting the URL Options...
+2016-03-10 11:20:15,698 [main] DEBUG Stockz - main(Stockz.java:72) URL Options are default. Setting to: sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-10 11:20:15,698 [main] DEBUG Stockz - main(Stockz.java:101) A stock symbol C  was passed in - Executing Thread to get information with URL Option sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-10 11:20:15,699 [main] DEBUG Stockz - <init>(Stockz.java:165) A stock symbol C  set to upper case:  C
+2016-03-10 11:20:15,699 [main] DEBUG Stockz - <init>(Stockz.java:167) URL Options set  sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-10 11:20:15,706 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:184) Generating Random UUID :b925ae4a-f4c3-4d43-92e2-b5918aab25a4
+2016-03-10 11:20:15,707 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:188) Thread:b925ae4a-f4c3-4d43-92e2-b5918aab25a4 Setting Temporary Stock Filname to : C-b925ae4a-f4c3-4d43-92e2-b5918aab25a4.stk
+2016-03-10 11:20:16,598 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:191) Thread:b925ae4a-f4c3-4d43-92e2-b5918aab25a4 Stock information recieved: C:b925ae4a-f4c3-4d43-92e2-b5918aab25a4
+2016-03-10 11:20:16,598 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:193) Thread:b925ae4a-f4c3-4d43-92e2-b5918aab25a4 Creating and manipulating Stock Data to get values: C:b925ae4a-f4c3-4d43-92e2-b5918aab25a4
+2016-03-10 11:20:16,599 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:196) Thread:b925ae4a-f4c3-4d43-92e2-b5918aab25a4 Getting the first line of C-b925ae4a-f4c3-4d43-92e2-b5918aab25a4.stk
+2016-03-10 11:20:16,599 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:198) Thread:b925ae4a-f4c3-4d43-92e2-b5918aab25a4 Line of first file: "C",41.22,7.63,0.22,"41.00 - 42.15","34.52 - 60.95",42.15,41.00,60.95,34.52,5.20,5.71,1.76,1.29,121.74B,10763254,26238000,41.15,1.23
+2016-03-10 11:20:16,599 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:200) Thread:b925ae4a-f4c3-4d43-92e2-b5918aab25a4 Deleting file: C-b925ae4a-f4c3-4d43-92e2-b5918aab25a4.stk
+2016-03-10 11:20:16,600 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:203) Thread:b925ae4a-f4c3-4d43-92e2-b5918aab25a4 Removing all " from line : "C",41.22,7.63,0.22,"41.00 - 42.15","34.52 - 60.95",42.15,41.00,60.95,34.52,5.20,5.71,1.76,1.29,121.74B,10763254,26238000,41.15,1.23
+2016-03-10 11:20:16,600 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:205) Thread:b925ae4a-f4c3-4d43-92e2-b5918aab25a4 Removing all spaces from line : C,41.22,7.63,0.22,41.00 - 42.15,34.52 - 60.95,42.15,41.00,60.95,34.52,5.20,5.71,1.76,1.29,121.74B,10763254,26238000,41.15,1.23
+2016-03-10 11:20:16,600 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:207) Thread:b925ae4a-f4c3-4d43-92e2-b5918aab25a4 Removing all N\/A from line : C,41.22,7.63,0.22,41.00-42.15,34.52-60.95,42.15,41.00,60.95,34.52,5.20,5.71,1.76,1.29,121.74B,10763254,26238000,41.15,1.23
+2016-03-10 11:20:16,600 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:209) Thread:b925ae4a-f4c3-4d43-92e2-b5918aab25a4 Final Line : C,41.22,7.63,0.22,41.00-42.15,34.52-60.95,42.15,41.00,60.95,34.52,5.20,5.71,1.76,1.29,121.74B,10763254,26238000,41.15,1.23
+2016-03-10 11:20:16,601 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:212) Thread:b925ae4a-f4c3-4d43-92e2-b5918aab25a4 Finished. About to output the answer. C:b925ae4a-f4c3-4d43-92e2-b5918aab25a4
+2016-03-10 11:21:43,527 [main] DEBUG Stockz - main(Stockz.java:61) Creating file to read in stocks list (if it was passed in).
+2016-03-10 11:21:43,528 [main] DEBUG Stockz - main(Stockz.java:64) Creating String for URL Options...
+2016-03-10 11:21:43,528 [main] DEBUG Stockz - main(Stockz.java:66) String Created. Current Options: null
+2016-03-10 11:21:43,528 [main] DEBUG Stockz - main(Stockz.java:69) Setting the URL Options...
+2016-03-10 11:21:43,528 [main] DEBUG Stockz - main(Stockz.java:72) URL Options are default. Setting to: sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-10 11:21:43,529 [main] DEBUG Stockz - main(Stockz.java:101) A stock symbol C  was passed in - Executing Thread to get information with URL Option sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-10 11:21:43,530 [main] DEBUG Stockz - <init>(Stockz.java:165) A stock symbol C  set to upper case:  C
+2016-03-10 11:21:43,530 [main] DEBUG Stockz - <init>(Stockz.java:167) URL Options set  sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-10 11:21:43,538 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:184) Generating Random UUID :0cf3c5c0-0228-434a-b834-c10f4b02de48
+2016-03-10 11:21:43,538 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:188) Thread:0cf3c5c0-0228-434a-b834-c10f4b02de48 Setting Temporary Stock Filname to : C-0cf3c5c0-0228-434a-b834-c10f4b02de48.stk
+2016-03-10 11:21:43,538 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:190) Thread:0cf3c5c0-0228-434a-b834-c10f4b02de48 Final URL: http://finance.yahoo.com/d/quotes.csv?s=C&f=sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-10 11:21:43,867 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:193) Thread:0cf3c5c0-0228-434a-b834-c10f4b02de48 Stock information recieved: C:0cf3c5c0-0228-434a-b834-c10f4b02de48
+2016-03-10 11:21:43,867 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:195) Thread:0cf3c5c0-0228-434a-b834-c10f4b02de48 Creating and manipulating Stock Data to get values: C:0cf3c5c0-0228-434a-b834-c10f4b02de48
+2016-03-10 11:21:43,867 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:198) Thread:0cf3c5c0-0228-434a-b834-c10f4b02de48 Getting the first line of C-0cf3c5c0-0228-434a-b834-c10f4b02de48.stk
+2016-03-10 11:21:43,867 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:200) Thread:0cf3c5c0-0228-434a-b834-c10f4b02de48 Line of first file: "C",41.19,7.62,0.22,"41.00 - 42.15","34.52 - 60.95",42.15,41.00,60.95,34.52,5.20,5.71,1.76,1.29,121.65B,10812947,26238000,41.15,1.23
+2016-03-10 11:21:43,868 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:202) Thread:0cf3c5c0-0228-434a-b834-c10f4b02de48 Deleting file: C-0cf3c5c0-0228-434a-b834-c10f4b02de48.stk
+2016-03-10 11:21:43,868 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:205) Thread:0cf3c5c0-0228-434a-b834-c10f4b02de48 Removing all " from line : "C",41.19,7.62,0.22,"41.00 - 42.15","34.52 - 60.95",42.15,41.00,60.95,34.52,5.20,5.71,1.76,1.29,121.65B,10812947,26238000,41.15,1.23
+2016-03-10 11:21:43,868 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:207) Thread:0cf3c5c0-0228-434a-b834-c10f4b02de48 Removing all spaces from line : C,41.19,7.62,0.22,41.00 - 42.15,34.52 - 60.95,42.15,41.00,60.95,34.52,5.20,5.71,1.76,1.29,121.65B,10812947,26238000,41.15,1.23
+2016-03-10 11:21:43,868 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:209) Thread:0cf3c5c0-0228-434a-b834-c10f4b02de48 Removing all N\/A from line : C,41.19,7.62,0.22,41.00-42.15,34.52-60.95,42.15,41.00,60.95,34.52,5.20,5.71,1.76,1.29,121.65B,10812947,26238000,41.15,1.23
+2016-03-10 11:21:43,869 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:211) Thread:0cf3c5c0-0228-434a-b834-c10f4b02de48 Final Line : C,41.19,7.62,0.22,41.00-42.15,34.52-60.95,42.15,41.00,60.95,34.52,5.20,5.71,1.76,1.29,121.65B,10812947,26238000,41.15,1.23
+2016-03-10 11:21:43,869 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:214) Thread:0cf3c5c0-0228-434a-b834-c10f4b02de48 Finished. About to output the answer. C:0cf3c5c0-0228-434a-b834-c10f4b02de48
+2016-03-15 10:50:49,678 [main] DEBUG Stockz - main(Stockz.java:62) Creating file to read in stocks list (if it was passed in).
+2016-03-15 10:50:49,680 [main] DEBUG Stockz - main(Stockz.java:65) Creating String for URL Options...
+2016-03-15 10:50:49,680 [main] DEBUG Stockz - main(Stockz.java:67) String Created. Current Options: null
+2016-03-15 10:50:49,680 [main] DEBUG Stockz - main(Stockz.java:70) Setting the URL Options...
+2016-03-15 10:50:49,680 [main] DEBUG Stockz - main(Stockz.java:73) URL Options are default. Setting to: sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-15 10:50:49,680 [main] DEBUG Stockz - main(Stockz.java:102) A stock symbol C  was passed in - Executing Thread to get information with URL Option sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-15 10:50:49,681 [main] DEBUG Stockz - <init>(Stockz.java:166) A stock symbol C  set to upper case:  C
+2016-03-15 10:50:49,682 [main] DEBUG Stockz - <init>(Stockz.java:168) URL Options set  sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-15 10:50:49,699 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:185) Generating Random UUID :e93b0451-213f-4575-bdea-afbe67fb5dca
+2016-03-15 10:50:49,699 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:189) Thread:e93b0451-213f-4575-bdea-afbe67fb5dca Setting Temporary Stock Filname to : C-e93b0451-213f-4575-bdea-afbe67fb5dca.stk
+2016-03-15 10:50:49,699 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:191) Thread:e93b0451-213f-4575-bdea-afbe67fb5dca Final URL: http://finance.yahoo.com/d/quotes.csv?s=C&f=sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-03-15 10:50:50,587 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:194) Thread:e93b0451-213f-4575-bdea-afbe67fb5dca Stock information recieved: C:e93b0451-213f-4575-bdea-afbe67fb5dca
+2016-03-15 10:50:50,587 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:196) Thread:e93b0451-213f-4575-bdea-afbe67fb5dca Creating and manipulating Stock Data to get values: C:e93b0451-213f-4575-bdea-afbe67fb5dca
+2016-03-15 10:50:50,587 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:199) Thread:e93b0451-213f-4575-bdea-afbe67fb5dca Getting the first line of C-e93b0451-213f-4575-bdea-afbe67fb5dca.stk
+2016-03-15 10:50:50,588 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:201) Thread:e93b0451-213f-4575-bdea-afbe67fb5dca Line of first file: "C",42.1637,7.8052,0.2300,"42.0290 - 42.4000","34.5200 - 60.9500",42.4000,42.0290,60.9500,34.5200,5.1200,5.6600,1.8198,1.2800,124.52B,3801240,26163800,42.6700,1.2300
+2016-03-15 10:50:50,588 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:203) Thread:e93b0451-213f-4575-bdea-afbe67fb5dca Deleting file: C-e93b0451-213f-4575-bdea-afbe67fb5dca.stk
+2016-03-15 10:50:50,588 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:206) Thread:e93b0451-213f-4575-bdea-afbe67fb5dca Removing all " from line : "C",42.1637,7.8052,0.2300,"42.0290 - 42.4000","34.5200 - 60.9500",42.4000,42.0290,60.9500,34.5200,5.1200,5.6600,1.8198,1.2800,124.52B,3801240,26163800,42.6700,1.2300
+2016-03-15 10:50:50,590 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:208) Thread:e93b0451-213f-4575-bdea-afbe67fb5dca Removing all spaces from line : C,42.1637,7.8052,0.2300,42.0290 - 42.4000,34.5200 - 60.9500,42.4000,42.0290,60.9500,34.5200,5.1200,5.6600,1.8198,1.2800,124.52B,3801240,26163800,42.6700,1.2300
+2016-03-15 10:50:50,591 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:210) Thread:e93b0451-213f-4575-bdea-afbe67fb5dca Removing all N\/A from line : C,42.1637,7.8052,0.2300,42.0290-42.4000,34.5200-60.9500,42.4000,42.0290,60.9500,34.5200,5.1200,5.6600,1.8198,1.2800,124.52B,3801240,26163800,42.6700,1.2300
+2016-03-15 10:50:50,591 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:212) Thread:e93b0451-213f-4575-bdea-afbe67fb5dca Final Line : C,42.1637,7.8052,0.2300,42.0290-42.4000,34.5200-60.9500,42.4000,42.0290,60.9500,34.5200,5.1200,5.6600,1.8198,1.2800,124.52B,3801240,26163800,42.6700,1.2300
+2016-03-15 10:50:50,591 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:215) Thread:e93b0451-213f-4575-bdea-afbe67fb5dca Finished. About to output the answer. C:e93b0451-213f-4575-bdea-afbe67fb5dca
+2016-04-26 11:25:34,954 [main] TRACE Stockz - main(Stockz.java:64) Entering application.
+2016-04-26 11:25:34,955 [main] DEBUG Stockz - main(Stockz.java:66) Creating file to read in stocks list (if it was passed in).
+2016-04-26 11:25:34,956 [main] TRACE com.l33tindustries.tools.file.SystemFile - Entering 
+2016-04-26 11:25:34,956 [main] TRACE com.l33tindustries.tools.file.SystemFile - Entering 
+2016-04-26 11:25:34,956 [main] TRACE com.l33tindustries.tools.file.SystemFile - Exiting 
+2016-04-26 11:25:34,956 [main] TRACE com.l33tindustries.tools.file.SystemFile - Exiting 
+2016-04-26 11:25:34,956 [main] DEBUG Stockz - main(Stockz.java:69) Creating String for URL Options...
+2016-04-26 11:25:34,956 [main] DEBUG Stockz - main(Stockz.java:71) String Created. Current Options: null
+2016-04-26 11:25:34,956 [main] DEBUG Stockz - main(Stockz.java:74) Setting the URL Options...
+2016-04-26 11:25:34,957 [main] DEBUG Stockz - main(Stockz.java:77) URL Options are default. Setting to: sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-04-26 11:25:34,957 [main] TRACE com.l33tindustries.tools.file.SystemFile - Entering 
+2016-04-26 11:25:34,957 [main] TRACE com.l33tindustries.tools.file.SystemFile - Exiting 
+2016-04-26 11:25:34,957 [main] DEBUG Stockz - main(Stockz.java:106) A stock symbol C  was passed in - Executing Thread to get information with URL Option sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-04-26 11:25:34,958 [main] TRACE Stockz - <init>(Stockz.java:168) Entering Constructor : AnalyzeStock
+2016-04-26 11:25:34,958 [main] TRACE Stockz - setStockSymbol(Stockz.java:136) Entering.
+2016-04-26 11:25:34,958 [main] TRACE Stockz - setStockSymbol(Stockz.java:137) Exiting.
+2016-04-26 11:25:34,958 [main] DEBUG Stockz - <init>(Stockz.java:170) A stock symbol C  set to upper case:  C
+2016-04-26 11:25:34,958 [main] TRACE Stockz - setStrURL(Stockz.java:154) Entering.
+2016-04-26 11:25:34,958 [main] TRACE Stockz - setStrURL(Stockz.java:156) Exiting.
+2016-04-26 11:25:34,959 [main] DEBUG Stockz - <init>(Stockz.java:172) URL Options set  sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-04-26 11:25:34,959 [main] TRACE Stockz - <init>(Stockz.java:173) Exiting Constructor : AnalyzeStock
+2016-04-26 11:25:34,959 [main] TRACE Stockz - main(Stockz.java:110) Exiting application.
+2016-04-26 11:25:34,959 [pool-1-thread-1] TRACE Stockz - run(Stockz.java:186) Entering
+2016-04-26 11:25:34,976 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:190) Generating Random UUID :2388632b-0174-45f3-8e74-8194c605181c
+2016-04-26 11:25:34,976 [pool-1-thread-1] TRACE Stockz - getStockSymbol(Stockz.java:127) Entering.
+2016-04-26 11:25:34,976 [pool-1-thread-1] TRACE Stockz - getStockSymbol(Stockz.java:128) Exiting.
+2016-04-26 11:25:34,976 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:194) Thread:2388632b-0174-45f3-8e74-8194c605181c Setting Temporary Stock Filname to : C-2388632b-0174-45f3-8e74-8194c605181c.stk
+2016-04-26 11:25:34,976 [pool-1-thread-1] TRACE Stockz - getStockSymbol(Stockz.java:127) Entering.
+2016-04-26 11:25:34,976 [pool-1-thread-1] TRACE Stockz - getStockSymbol(Stockz.java:128) Exiting.
+2016-04-26 11:25:34,976 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:196) Thread:2388632b-0174-45f3-8e74-8194c605181c Final URL: http://finance.yahoo.com/d/quotes.csv?s=C&f=sl1rr5mwhgkje7e8p5e9j1va2ps7
+2016-04-26 11:25:35,641 [pool-1-thread-1] TRACE Stockz - getStockSymbol(Stockz.java:127) Entering.
+2016-04-26 11:25:35,641 [pool-1-thread-1] TRACE Stockz - getStockSymbol(Stockz.java:128) Exiting.
+2016-04-26 11:25:35,641 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:199) Thread:2388632b-0174-45f3-8e74-8194c605181c Stock information recieved: C:2388632b-0174-45f3-8e74-8194c605181c
+2016-04-26 11:25:35,641 [pool-1-thread-1] TRACE Stockz - getStockSymbol(Stockz.java:127) Entering.
+2016-04-26 11:25:35,641 [pool-1-thread-1] TRACE Stockz - getStockSymbol(Stockz.java:128) Exiting.
+2016-04-26 11:25:35,641 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:201) Thread:2388632b-0174-45f3-8e74-8194c605181c Creating and manipulating Stock Data to get values: C:2388632b-0174-45f3-8e74-8194c605181c
+2016-04-26 11:25:35,641 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Entering 
+2016-04-26 11:25:35,642 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Entering 
+2016-04-26 11:25:35,642 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Exiting 
+2016-04-26 11:25:35,642 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Exiting 
+2016-04-26 11:25:35,642 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Entering 
+2016-04-26 11:25:35,642 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Exiting 
+2016-04-26 11:25:35,642 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:204) Thread:2388632b-0174-45f3-8e74-8194c605181c Getting the first line of C-2388632b-0174-45f3-8e74-8194c605181c.stk
+2016-04-26 11:25:35,642 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Entering
+2016-04-26 11:25:35,642 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Entering 
+2016-04-26 11:25:35,642 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Exiting 
+2016-04-26 11:25:35,642 [pool-1-thread-1] DEBUG com.l33tindustries.tools.file.SystemFile - Exiting: "C",47.015,8.703,0.710,"46.420 - 47.050","34.520 - 60.950",47.050,46.420,60.950,34.520,4.710,5.500,1.991,1.230,138.85B,7412884,24230200,46.690,1.450
+2016-04-26 11:25:35,642 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:206) Thread:2388632b-0174-45f3-8e74-8194c605181c Line of first file: "C",47.015,8.703,0.710,"46.420 - 47.050","34.520 - 60.950",47.050,46.420,60.950,34.520,4.710,5.500,1.991,1.230,138.85B,7412884,24230200,46.690,1.450
+2016-04-26 11:25:35,643 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Entering 
+2016-04-26 11:25:35,643 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Exiting 
+2016-04-26 11:25:35,643 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:208) Thread:2388632b-0174-45f3-8e74-8194c605181c Deleting file: C-2388632b-0174-45f3-8e74-8194c605181c.stk
+2016-04-26 11:25:35,643 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile -  Entering
+2016-04-26 11:25:35,643 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:211) Thread:2388632b-0174-45f3-8e74-8194c605181c Removing all " from line : "C",47.015,8.703,0.710,"46.420 - 47.050","34.520 - 60.950",47.050,46.420,60.950,34.520,4.710,5.500,1.991,1.230,138.85B,7412884,24230200,46.690,1.450
+2016-04-26 11:25:35,645 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:213) Thread:2388632b-0174-45f3-8e74-8194c605181c Removing all spaces from line : C,47.015,8.703,0.710,46.420 - 47.050,34.520 - 60.950,47.050,46.420,60.950,34.520,4.710,5.500,1.991,1.230,138.85B,7412884,24230200,46.690,1.450
+2016-04-26 11:25:35,645 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:215) Thread:2388632b-0174-45f3-8e74-8194c605181c Removing all N\/A from line : C,47.015,8.703,0.710,46.420-47.050,34.520-60.950,47.050,46.420,60.950,34.520,4.710,5.500,1.991,1.230,138.85B,7412884,24230200,46.690,1.450
+2016-04-26 11:25:35,645 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:217) Thread:2388632b-0174-45f3-8e74-8194c605181c Final Line : C,47.015,8.703,0.710,46.420-47.050,34.520-60.950,47.050,46.420,60.950,34.520,4.710,5.500,1.991,1.230,138.85B,7412884,24230200,46.690,1.450
+2016-04-26 11:25:35,645 [pool-1-thread-1] TRACE Stockz - getStockSymbol(Stockz.java:127) Entering.
+2016-04-26 11:25:35,645 [pool-1-thread-1] TRACE Stockz - getStockSymbol(Stockz.java:128) Exiting.
+2016-04-26 11:25:35,645 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:220) Thread:2388632b-0174-45f3-8e74-8194c605181c Finished. About to output the answer. C:2388632b-0174-45f3-8e74-8194c605181c
+2016-04-26 11:25:35,646 [pool-1-thread-1] TRACE Stockz - run(Stockz.java:222) Thread:2388632b-0174-45f3-8e74-8194c605181c Exiting
+2017-04-27 01:03:26,383 [main] TRACE Stockz - main(Stockz.java:64) Entering application.
+2017-04-27 01:03:26,384 [main] DEBUG Stockz - main(Stockz.java:66) Creating file to read in stocks list (if it was passed in).
+2017-04-27 01:03:26,385 [main] TRACE com.l33tindustries.tools.file.SystemFile - Entering 
+2017-04-27 01:03:26,386 [main] TRACE com.l33tindustries.tools.file.SystemFile - Entering 
+2017-04-27 01:03:26,386 [main] TRACE com.l33tindustries.tools.file.SystemFile - Exiting 
+2017-04-27 01:03:26,386 [main] TRACE com.l33tindustries.tools.file.SystemFile - Exiting 
+2017-04-27 01:03:26,386 [main] DEBUG Stockz - main(Stockz.java:69) Creating String for URL Options...
+2017-04-27 01:03:26,386 [main] DEBUG Stockz - main(Stockz.java:71) String Created. Current Options: null
+2017-04-27 01:03:26,386 [main] DEBUG Stockz - main(Stockz.java:74) Setting the URL Options...
+2017-04-27 01:03:26,386 [main] DEBUG Stockz - main(Stockz.java:77) URL Options are default. Setting to: sl1rr5mwhgkje7e8p5e9j1va2ps7
+2017-04-27 01:03:26,386 [main] TRACE com.l33tindustries.tools.file.SystemFile - Entering 
+2017-04-27 01:03:26,387 [main] TRACE com.l33tindustries.tools.file.SystemFile - Exiting 
+2017-04-27 01:03:26,387 [main] DEBUG Stockz - main(Stockz.java:106) A stock symbol C  was passed in - Executing Thread to get information with URL Option sl1rr5mwhgkje7e8p5e9j1va2ps7
+2017-04-27 01:03:26,389 [main] TRACE Stockz - <init>(Stockz.java:168) Entering Constructor : AnalyzeStock
+2017-04-27 01:03:26,389 [main] TRACE Stockz - setStockSymbol(Stockz.java:136) Entering.
+2017-04-27 01:03:26,389 [main] TRACE Stockz - setStockSymbol(Stockz.java:137) Exiting.
+2017-04-27 01:03:26,389 [main] DEBUG Stockz - <init>(Stockz.java:170) A stock symbol C  set to upper case:  C
+2017-04-27 01:03:26,389 [main] TRACE Stockz - setStrURL(Stockz.java:154) Entering.
+2017-04-27 01:03:26,390 [main] TRACE Stockz - setStrURL(Stockz.java:156) Exiting.
+2017-04-27 01:03:26,390 [main] DEBUG Stockz - <init>(Stockz.java:172) URL Options set  sl1rr5mwhgkje7e8p5e9j1va2ps7
+2017-04-27 01:03:26,390 [main] TRACE Stockz - <init>(Stockz.java:173) Exiting Constructor : AnalyzeStock
+2017-04-27 01:03:26,391 [main] TRACE Stockz - main(Stockz.java:110) Exiting application.
+2017-04-27 01:03:26,391 [pool-1-thread-1] TRACE Stockz - run(Stockz.java:186) Entering
+2017-04-27 01:03:26,416 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:190) Generating Random UUID :19749a58-3820-4ee2-8b6e-6463ae5f8ec9
+2017-04-27 01:03:26,416 [pool-1-thread-1] TRACE Stockz - getStockSymbol(Stockz.java:127) Entering.
+2017-04-27 01:03:26,416 [pool-1-thread-1] TRACE Stockz - getStockSymbol(Stockz.java:128) Exiting.
+2017-04-27 01:03:26,416 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:194) Thread:19749a58-3820-4ee2-8b6e-6463ae5f8ec9 Setting Temporary Stock Filname to : C-19749a58-3820-4ee2-8b6e-6463ae5f8ec9.stk
+2017-04-27 01:03:26,416 [pool-1-thread-1] TRACE Stockz - getStockSymbol(Stockz.java:127) Entering.
+2017-04-27 01:03:26,417 [pool-1-thread-1] TRACE Stockz - getStockSymbol(Stockz.java:128) Exiting.
+2017-04-27 01:03:26,417 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:196) Thread:19749a58-3820-4ee2-8b6e-6463ae5f8ec9 Final URL: http://finance.yahoo.com/d/quotes.csv?s=C&f=sl1rr5mwhgkje7e8p5e9j1va2ps7
+2017-04-27 01:03:26,770 [pool-1-thread-1] TRACE Stockz - getStockSymbol(Stockz.java:127) Entering.
+2017-04-27 01:03:26,770 [pool-1-thread-1] TRACE Stockz - getStockSymbol(Stockz.java:128) Exiting.
+2017-04-27 01:03:26,770 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:199) Thread:19749a58-3820-4ee2-8b6e-6463ae5f8ec9 Stock information recieved: C:19749a58-3820-4ee2-8b6e-6463ae5f8ec9
+2017-04-27 01:03:26,770 [pool-1-thread-1] TRACE Stockz - getStockSymbol(Stockz.java:127) Entering.
+2017-04-27 01:03:26,770 [pool-1-thread-1] TRACE Stockz - getStockSymbol(Stockz.java:128) Exiting.
+2017-04-27 01:03:26,770 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:201) Thread:19749a58-3820-4ee2-8b6e-6463ae5f8ec9 Creating and manipulating Stock Data to get values: C:19749a58-3820-4ee2-8b6e-6463ae5f8ec9
+2017-04-27 01:03:26,770 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Entering 
+2017-04-27 01:03:26,770 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Entering 
+2017-04-27 01:03:26,770 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Exiting 
+2017-04-27 01:03:26,771 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Exiting 
+2017-04-27 01:03:26,771 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Entering 
+2017-04-27 01:03:26,771 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Exiting 
+2017-04-27 01:03:26,771 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:204) Thread:19749a58-3820-4ee2-8b6e-6463ae5f8ec9 Getting the first line of C-19749a58-3820-4ee2-8b6e-6463ae5f8ec9.stk
+2017-04-27 01:03:26,771 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Entering
+2017-04-27 01:03:26,771 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Entering 
+2017-04-27 01:03:26,771 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Exiting 
+2017-04-27 01:03:26,771 [pool-1-thread-1] DEBUG com.l33tindustries.tools.file.SystemFile - Exiting: "C",60.10,12.11,1.65,"59.96 - 60.70","38.31 - 62.53",60.70,59.96,62.53,38.31,5.18,5.90,2.59,1.31,165.47B,16057953,18097600,60.21,1.04
+2017-04-27 01:03:26,771 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:206) Thread:19749a58-3820-4ee2-8b6e-6463ae5f8ec9 Line of first file: "C",60.10,12.11,1.65,"59.96 - 60.70","38.31 - 62.53",60.70,59.96,62.53,38.31,5.18,5.90,2.59,1.31,165.47B,16057953,18097600,60.21,1.04
+2017-04-27 01:03:26,772 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Entering 
+2017-04-27 01:03:26,772 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile - Exiting 
+2017-04-27 01:03:26,772 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:208) Thread:19749a58-3820-4ee2-8b6e-6463ae5f8ec9 Deleting file: C-19749a58-3820-4ee2-8b6e-6463ae5f8ec9.stk
+2017-04-27 01:03:26,772 [pool-1-thread-1] TRACE com.l33tindustries.tools.file.SystemFile -  Entering
+2017-04-27 01:03:26,772 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:211) Thread:19749a58-3820-4ee2-8b6e-6463ae5f8ec9 Removing all " from line : "C",60.10,12.11,1.65,"59.96 - 60.70","38.31 - 62.53",60.70,59.96,62.53,38.31,5.18,5.90,2.59,1.31,165.47B,16057953,18097600,60.21,1.04
+2017-04-27 01:03:26,774 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:213) Thread:19749a58-3820-4ee2-8b6e-6463ae5f8ec9 Removing all spaces from line : C,60.10,12.11,1.65,59.96 - 60.70,38.31 - 62.53,60.70,59.96,62.53,38.31,5.18,5.90,2.59,1.31,165.47B,16057953,18097600,60.21,1.04
+2017-04-27 01:03:26,774 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:215) Thread:19749a58-3820-4ee2-8b6e-6463ae5f8ec9 Removing all N\/A from line : C,60.10,12.11,1.65,59.96-60.70,38.31-62.53,60.70,59.96,62.53,38.31,5.18,5.90,2.59,1.31,165.47B,16057953,18097600,60.21,1.04
+2017-04-27 01:03:26,775 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:217) Thread:19749a58-3820-4ee2-8b6e-6463ae5f8ec9 Final Line : C,60.10,12.11,1.65,59.96-60.70,38.31-62.53,60.70,59.96,62.53,38.31,5.18,5.90,2.59,1.31,165.47B,16057953,18097600,60.21,1.04
+2017-04-27 01:03:26,775 [pool-1-thread-1] TRACE Stockz - getStockSymbol(Stockz.java:127) Entering.
+2017-04-27 01:03:26,775 [pool-1-thread-1] TRACE Stockz - getStockSymbol(Stockz.java:128) Exiting.
+2017-04-27 01:03:26,775 [pool-1-thread-1] DEBUG Stockz - run(Stockz.java:220) Thread:19749a58-3820-4ee2-8b6e-6463ae5f8ec9 Finished. About to output the answer. C:19749a58-3820-4ee2-8b6e-6463ae5f8ec9
+2017-04-27 01:03:26,775 [pool-1-thread-1] TRACE Stockz - run(Stockz.java:222) Thread:19749a58-3820-4ee2-8b6e-6463ae5f8ec9 Exiting
